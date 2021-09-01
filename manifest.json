@@ -1,0 +1,15 @@
+﻿{
+  "name": "ksmapyhII",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is test work",
+  "permissions": [
+    "alarms","tabs"
+  ],
+
+  "action": {
+    "default_icon": "icondesu.png",
+    "default_title": "test extension",
+    "default_popup": "test.html"
+  }
+}
